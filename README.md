@@ -125,7 +125,7 @@ pry(main)> benjamin = Contestant.new({
 
 pry(main)> frederick = Contestant.new({
                        first_name:  'Frederick',
-                       last_name: 'Douglas',
+                       last_name: 'Douglass',
                        age: 55,
                        state_of_residence: 'NY',
                        spending_money: 20})
